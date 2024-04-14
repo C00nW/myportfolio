@@ -14,4 +14,4 @@ Here are some of the key skills I have developed:
 | Skill                                  | Associated Project |
 |----------------------------------------|-------------------|
 | UX Design and User Research            | [UX Project Link](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
-| Cybersecurity Analysis and Response    | [Cybersecurity Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
+| Cybersecurity Analysis and Incident Response    | [Cybersecurity Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
