@@ -1,7 +1,7 @@
 # Hello, I'm Patten!
-<a href="https://linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub page! I'm driven to strengthen the security of digital environments and streamline cloud operations. Leveraging my background in cybersecurity, product development, digital marketing, and psychology, I'm actively transitioning into cybersecurity and cloud-focused roles.
+Welcome to my GitHub profile! I'm driven to strengthen the security of digital environments and streamline cloud operations. Leveraging my background in cybersecurity, product development, digital marketing, and psychology, I'm actively transitioning into cybersecurity and cloud-focused roles.
 
 ## About Me
 
