@@ -1,11 +1,15 @@
 # Hello, I'm Patten!
 <a href="https://linkedin.com/in/yourlinkedinprofile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub page! I am passionate about enhancing the security of digital environments and optimizing cloud-based operations. With a strong foundation in cybersecurity, product development, digital marketing, and psychology, I am transitioning into roles focused on cybersecurity and cloud operations.
+Welcome to my GitHub page! I'm driven to strengthen the security of digital environments and streamline cloud operations. Leveraging my background in cybersecurity, product development, digital marketing, and psychology, I'm actively transitioning into cybersecurity and cloud-focused roles.
 
 ## About Me
 
-I'm currently engaged in the SCTP SOC Analyst program and a cloud support/DevOps bootcamp, where I have completed modules in virtualization, networking, Windows Active Directory, and Linux. My educational background and ongoing training have equipped me with the knowledge and skills to tackle the challenges in the ever-evolving field of information technology (IT).
+- Actively engaged in the SCTP SOC Analyst program and a Singapore-based cloud support/DevOps bootcamp.
+- Proficient in virtualization, networking, and systems administration (Windows/Linux).
+- Pursuing Microsoft Azure certifications (AZ-900, AZ-104) to deepen my cloud expertise.
+- Early in my IT journey, yet equipped with both theoretical knowledge and practical experience.
+- Passionate about applying my skills and expanding my knowledge in a professional IT setting.
 
 ## Skills
 
