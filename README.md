@@ -18,5 +18,6 @@ Here are some of the key skills I have developed:
 | Skill                                  | Associated Project |
 |----------------------------------------|-------------------|
 | Simple Web App using Python, Flask & MySQL Database | [Mini Project A & B](https://a4py2024anywh.pythonanywhere.com/)
-| UX Design and User Research            | [UX Project Link](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
-| Cybersecurity Analysis and Incident Response    | [Cybersecurity Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
+| Largest Product Calculator (Managing strings and exceptions) | [Python Mini Task](https://github.com/C00nW/largest-product-calculator.git)
+| UX Design and User Research            | [UX Bootcamp Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
+| Cybersecurity Analysis and Incident Response    | [Cybersecurity Bootcamp Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
