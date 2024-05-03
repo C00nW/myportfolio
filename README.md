@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm driven to strengthen the security of digital e
 
 ## About Me
 
-- Actively engaged in the SCTP SOC Analyst program and a Singapore-based cloud support/DevOps bootcamp.
+- Actively engaged in the SCTP SOC Analyst program and a Singapore-based cloud operations bootcamp.
 - Proficient in virtualization, networking, and systems administration (Windows/Linux).
 - Pursuing Microsoft Azure certifications (AZ-900, AZ-104) to deepen my cloud expertise.
 - Early in my IT journey, yet equipped with both theoretical knowledge and practical experience.
