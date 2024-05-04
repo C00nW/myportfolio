@@ -4,7 +4,6 @@
 Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecurity (risk management), product development, digital marketing, and psychology. I'm actively seeking opportunities to apply my diverse skillset to cybersecurity and cloud operations roles. My multidisciplinary background enables me to be adaptable and approach challenges creatively, driving innovation in the tech industry.
 
 ## About Me
-
 * 🛡️  Deepening cybersecurity expertise through the SCTP SOC Analyst program.
 * ☁️  Building cloud proficiency with Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
 * 🎯  On track for Azure certifications (AZ-900, AZ-104).
@@ -13,9 +12,7 @@ Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecuri
 * 📚  Committed to continuous professional development in cybersecurity and cloud technologies.
 
 ## Projects
-
 Here are some of the key projects I have done:
-
 |         |  |
 |----------------------------------------|-------------------|
 | Simple Web App using Python, Flask & MySQL Database | [Mini Project A & B](https://a4py2024anywh.pythonanywhere.com/) |
