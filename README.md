@@ -1,7 +1,7 @@
 # Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! Leveraging my experience in cybersecurity (risk management), product development, digital marketing, and psychology. I'm actively seeking opportunities to apply my diverse skillset to cybersecurity and cloud operations roles. My multidisciplinary background enables me to be adaptable and approach challenges creatively, driving innovation in the tech industry.
+Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecurity (risk management), product development, digital marketing, and psychology. I'm actively seeking opportunities to apply my diverse skillset to cybersecurity and cloud operations roles. My multidisciplinary background enables me to be adaptable and approach challenges creatively, driving innovation in the tech industry.
 
 ## About Me
 
