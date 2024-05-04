@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecuri
 
 ## Relevant Skills & Technologies
 
-### Cloud and DevOps
+### | Cloud and DevOps |
 <div>
   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
@@ -36,22 +36,29 @@ Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecuri
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Network and Security
+### | Scripting and Automation |
 <div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Packet_Tracer-FF0000?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows_Defender-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-</div>
-
-### Virtualization and Administration
-<div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git_Bash-DE4C36?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### Scripting and Automation
+### | Network and Security |
 <div>
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Packet_Tracer-FF0000?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
+
+### | Windows Administration |
+<div>
+  <img src="https://img.shields.io/badge/-Windows_Administration-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Security-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+### | Virtualization |
+<div>
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
