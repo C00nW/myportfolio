@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecuri
 
 ## My Projects
 
-|||
+|                                        |                   |
 |----------------------------------------|-------------------|
 | Simple Web App using Python, Flask & MySQL Database | [Mini Project A & B](https://a4py2024anywh.pythonanywhere.com/) |
 | Largest Product Calculator (Managing strings and exceptions) | [Python Mini Task](https://github.com/C00nW/largest-product-calculator.git) |
