@@ -24,42 +24,34 @@ Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecuri
 
 ## Relevant Skills & Technologies
 
-### | Cloud and DevOps |
-<div>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+## Cloud and DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### | Scripting and Automation |
-<div>
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git_Bash-DE4C36?&style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## Scripting and Automation
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-DE4C36?style=flat-square&logo=git&logoColor=white)
 
-### | Network and Security |
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Packet_Tracer-FF0000?&style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
-</div>
+## Network and Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-FF0000?style=flat-square&logo=cisco&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=Nmap&logoColor=white)
 
-### | Windows Administration |
-<div>
-  <img src="https://img.shields.io/badge/-Windows_Administration-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows_Security-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+## Windows Administration
+![Windows Administration](https://img.shields.io/badge/Windows_Administration-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Windows Security](https://img.shields.io/badge/Windows_Security-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-### | Virtualization |
-<div>
-  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-</div>
+## Virtualization
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)
+
+
 
