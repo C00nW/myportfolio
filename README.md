@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm tech enthusiast with experience in cybersecuri
 | Cybersecurity Analysis and Incident Response    | [Cybersecurity Bootcamp Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
 | UX Design and User Research            | [UX Bootcamp Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
 
+
 ## Relevant Skills & Technologies
 
 ### | Cloud and DevOps |
