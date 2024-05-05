@@ -32,12 +32,9 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 **Product Executive (MedTech), Beta MedTech**
 
 *Feb 2022 - May 2022*
-- Analyzed market trends, user needs, and competitive data to inform product design and strategic roadmap.
-  
-- Collaborated with cross-functional teams (including software and hardware engineering teams) using Agile methodologies to deliver iterative product enhancements.
-  
+- Analyzed market trends, user needs, and competitive data to inform product design and strategic roadmap.  
+- Collaborated with cross-functional teams (including software and hardware engineering teams) using Agile methodologies to deliver iterative product enhancements.  
 - Incorporated user feedback through surveys, interviews, and usability testing to optimize product interfaces.
-  
 - Built relationships with technical and non-technical stakeholders, ensuring alignment of product vision.
 
 **Esports Digital Marketing Intern (Remote), LinGan Esports**
