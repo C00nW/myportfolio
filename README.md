@@ -15,63 +15,6 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ***
 
-## 🎓 Education and Courses
-
-**Generation Singapore | Cloud Operations Bootcamp (🌱 In-progress)**
-
-*Feb 2024 - May 2024*
-- Upskilling for cloud support/DevOps roles. Learning Linux, Python, DevOps, & Microsoft Azure
-(Fundamentals & Administration)
-
-**Singapore University of Technology and Design (SUTD) | (SCTP) SOC (Security Operations Center) Analyst Program (🌱In-progress)**
-
-*Jan 2024 - Dec 2024*
-- Developing expertise in cybersecurity fundamentals, network analysis, and system administration to effectively protect organizations from cyber threats.
-
-**Vertical Institute | Certificate, Cybersecurity Bootcamp**
-
-*Jul 2023 - Aug 2023*
-- Completed a cybersecurity bootcamp focused on Singapore's financial sector, gaining foundational skills in risk assessment, vulnerability management, incident response, and cybersecurity tools for data protection.
-
-**NTUC LearningHub | Certificate, HFI UX2 - Certified Digital Persuasion Analyst (CDPA) Course**
-
-*Jun 2022 - Jul 2022*
-- Acquired skills in designing persuasive interfaces that enhance user engagement and drive business growth.
-
-**Vertical Institute | Certificate, User Experience Design Bootcamp**
-
-*Sep 2021 - Oct 2021*
-- Designed UI/UX for digital products (Figma, Miro, Trello, Adobe), applying user research, wireframing, prototyping, and usability testing to solve fintech challenges, including the 'DigiPayee' mobile banking app capstone project.
-
-**NTUC LearningHub | Certificate, HFI UX 1 - Usability Engineering Course**
-
-*Sep 2021 - Sep 2021*
-- Gained expertise in leveraging research-based methods to design intuitive, user-centric digital experiences that boost user satisfaction and support business objectives.
-
-**University of Wollongong | Bachelor of Science (BSc), Psychology** 
-
-*2016 - 2019*
-- Gained insights into human behavior and developed critical thinking and problem-solving skills valuable for understanding user needs.
-- Strengthened research and collaboration abilities, essential for driving data-driven decisions and working effectively in teams.
-
-**Management Development Institute of Singapore (MDIS) | Advanced Diploma, Psychology**
-
-*2014 - 2015*
-- Acquired advanced knowledge in psychological principles and applied psychology skills, relevant for understanding consumer behavior and driving business success.
-- Conducted quantitative research using SPSS, demonstrating strong data analysis and communication skills.
-
-**Management Development Institute of Singapore (MDIS) | Diploma, Psychology**
-
-*2013 - 2014*
-- Built a strong foundation in psychological theories and principles, providing a basis for understanding human behavior in professional settings.
-
-**PSB Academy | Certificate, Business Administration**
-
-*2011 - 2013*
-- Developed a comprehensive understanding of core business functions and applied concepts to solve real-world challenges, demonstrating adaptability and problem-solving skills.
-
-***
-
 ## 🚀 My Projects
 
 |-|-|
@@ -81,6 +24,71 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 | Simple Network Scanner Web App (nmap) | [Linux Task using Ubuntu 22.04 LTS on VirtualBox](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
 | Cybersecurity Analysis and Incident Response    | [Cybersecurity Bootcamp Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
 | UX Design and User Research            | [UX Bootcamp Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
+
+***
+
+## 🎓 Continuing Education
+
+### 🔄 Ongoing Training 
+
+**Generation Singapore | Cloud Operations Bootcamp** 
+
+*Feb 2024 - May 2024* ☁️
+- Upskilling for cloud support/DevOps roles. Learning Linux, Python, DevOps, & Microsoft Azure
+(Fundamentals & Administration)
+
+**Singapore University of Technology and Design (SUTD) | (SCTP) SOC (Security Operations Center) Analyst Program**
+
+*Jan 2024 - Dec 2024*  🔒
+- Developing expertise in cybersecurity fundamentals, network analysis, and system administration to effectively protect organizations from cyber threats.
+
+### 🏅 Certifications & Professional Development
+
+**Vertical Institute | Certificate, Cybersecurity Bootcamp**
+
+*Jul 2023 - Aug 2023* 🔐
+- Completed a cybersecurity bootcamp focused on Singapore's financial sector, gaining foundational skills in risk assessment, vulnerability management, incident response, and cybersecurity tools for data protection.
+
+**NTUC LearningHub | Certificate, HFI UX2 - Certified Digital Persuasion Analyst (CDPA) Course**
+
+*Jun 2022 - Jul 2022* 🧠
+- Acquired skills in designing persuasive interfaces that enhance user engagement and drive business growth.
+
+**Vertical Institute | Certificate, User Experience Design Bootcamp**
+
+*Sep 2021 - Oct 2021* 📱
+- Designed UI/UX for digital products (Figma, Miro, Trello, Adobe), applying user research, wireframing, prototyping, and usability testing to solve fintech challenges, including the 'DigiPayee' mobile banking app capstone project.
+
+**NTUC LearningHub | Certificate, HFI UX 1 - Usability Engineering Course**
+
+*Sep 2021 - Sep 2021* 🖌️
+- Gained expertise in leveraging research-based methods to design intuitive, user-centric digital experiences that boost user satisfaction and support business objectives.
+
+***
+
+##  🏛 Education
+
+**University of Wollongong | Bachelor of Science (BSc), Psychology** 
+
+*2016 - 2019* 📘
+- Gained insights into human behavior and developed critical thinking and problem-solving skills valuable for understanding user needs.
+- Strengthened research and collaboration abilities, essential for driving data-driven decisions and working effectively in teams.
+
+**Management Development Institute of Singapore (MDIS) | Advanced Diploma, Psychology**
+
+*2014 - 2015* 📘
+- Acquired advanced knowledge in psychological principles and applied psychology skills, relevant for understanding consumer behavior and driving business success.
+- Conducted quantitative research using SPSS, demonstrating strong data analysis and communication skills.
+
+**Management Development Institute of Singapore (MDIS) | Diploma, Psychology**
+
+*2013 - 2014* 📘
+- Built a strong foundation in psychological theories and principles, providing a basis for understanding human behavior in professional settings.
+
+**PSB Academy | Certificate, Business Administration**
+
+*2011 - 2013* 📜
+- Developed a comprehensive understanding of core business functions and applied concepts to solve real-world challenges, demonstrating adaptability and problem-solving skills.
 
 ***
 
