@@ -27,6 +27,34 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ***
 
+## 💼 Professional Experience
+
+**Product Executive (MedTech) | Beta MedTech**
+
+*Feb 2022 - May 2022*
+- Analyzed market trends, user needs, and competitive data to inform product design and strategic roadmap.
+- Collaborated with cross-functional teams (including software and hardware engineering teams) using Agile methodologies to deliver iterative product enhancements.
+- Incorporated user feedback through surveys, interviews, and usability testing to optimize product interfaces.
+- Built relationships with technical and non-technical stakeholders, ensuring alignment of product vision.
+
+**Esports Digital Marketing Intern (Remote) | LinGan Esports**
+
+*Feb 2020 - Jul 2020*
+- Managed social media campaigns across platforms (Twitter, Facebook, YouTube, Discord) using analytics to optimize performance and target esports enthusiasts.
+- Established a content calendar to maintain brand consistency, maximize user engagement, and enhance online presence.
+- Worked with internal teams to identify growth opportunities, ensuring effective online communication for brand growth.
+- Analyzed social media metrics to assess campaign effectiveness, providing data-driven recommendations to improve audience reach and engagement.
+
+**Logistics & Administrative Assistant | Singapore Army**
+
+*2011 - 2013*
+- Managed supply chains and inventory records, ensuring timely resource provisioning and minimizing disruptions.
+- Maintained accurate records of sensitive information, adhering to strict security and confidentiality protocols.
+- Collaborated with cross-functional teams to resolve logistical issues and streamline operations for greater efficiency.
+- Demonstrated meticulous organizational skills, ensuring compliance with operational procedures.
+
+***
+
 ## 🎓 Continuing Education
 
 ### 🔄 Ongoing Training 
@@ -132,6 +160,12 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ## Virtualization
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
+
+***
+
+## 💬 Let's Connect
+I'm always excited to collaborate on interesting projects, share knowledge, and learn from others in the tech community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/patten-c-4090971b9/)
+
 
 
 
