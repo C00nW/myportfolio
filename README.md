@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ## 💼 Professional Experience
 
-**Product Executive (MedTech) | Beta MedTech**
+**Product Executive (MedTech), Beta MedTech**
 
 *Feb 2022 - May 2022*
 - Analyzed market trends, user needs, and competitive data to inform product design and strategic roadmap.
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 - Incorporated user feedback through surveys, interviews, and usability testing to optimize product interfaces.
 - Built relationships with technical and non-technical stakeholders, ensuring alignment of product vision.
 
-**Esports Digital Marketing Intern (Remote) | LinGan Esports**
+**Esports Digital Marketing Intern (Remote), LinGan Esports**
 
 *Feb 2020 - Jul 2020*
 - Managed social media campaigns across platforms (Twitter, Facebook, YouTube, Discord) using analytics to optimize performance and target esports enthusiasts.
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 - Worked with internal teams to identify growth opportunities, ensuring effective online communication for brand growth.
 - Analyzed social media metrics to assess campaign effectiveness, providing data-driven recommendations to improve audience reach and engagement.
 
-**Logistics & Administrative Assistant | Singapore Army**
+**Logistics & Administrative Assistant, Singapore Army**
 
 *2011 - 2013*
 - Managed supply chains and inventory records, ensuring timely resource provisioning and minimizing disruptions.
@@ -59,61 +59,61 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ### 🔄 Ongoing Training 
 
-**Generation Singapore | Cloud Operations Bootcamp** 
+**Generation Singapore, Cloud Operations Bootcamp** 
 
 *Feb 2024 - May 2024* ☁️
 - Upskilling for cloud support/DevOps roles. Learning Linux, Python, DevOps, & Microsoft Azure
 (Fundamentals & Administration)
 
-**Singapore University of Technology and Design (SUTD) | (SCTP) SOC (Security Operations Center) Analyst Program**
+**Singapore University of Technology and Design (SUTD), (SCTP) SOC (Security Operations Center) Analyst Program**
 
 *Jan 2024 - Dec 2024*  🔒
 - Developing expertise in cybersecurity fundamentals, network analysis, and system administration to effectively protect organizations from cyber threats.
 
 ### 🏅 Certifications & Professional Development
 
-**Vertical Institute | Certificate, Cybersecurity Bootcamp**
+**Vertical Institute, Certificate, Cybersecurity Bootcamp**
 
 *Jul 2023 - Aug 2023* 🔐
 - Completed a cybersecurity bootcamp focused on Singapore's financial sector, gaining foundational skills in risk assessment, vulnerability management, incident response, and cybersecurity tools for data protection.
 
-**NTUC LearningHub | Certificate, HFI UX2 - Certified Digital Persuasion Analyst (CDPA) Course**
+**NTUC LearningHub, Certificate, HFI UX2 - Certified Digital Persuasion Analyst (CDPA) Course**
 
 *Jun 2022 - Jul 2022* 🧠
 - Acquired skills in designing persuasive interfaces that enhance user engagement and drive business growth.
 
-**Vertical Institute | Certificate, User Experience Design Bootcamp**
+**Vertical Institute, Certificate, User Experience Design Bootcamp**
 
 *Sep 2021 - Oct 2021* 📱
 - Designed UI/UX for digital products (Figma, Miro, Trello, Adobe), applying user research, wireframing, prototyping, and usability testing to solve fintech challenges, including the 'DigiPayee' mobile banking app capstone project.
 
-**NTUC LearningHub | Certificate, HFI UX 1 - Usability Engineering Course**
+**NTUC LearningHub, Certificate, HFI UX 1 - Usability Engineering Course**
 
 *Sep 2021 - Sep 2021* 🖌️
 - Gained expertise in leveraging research-based methods to design intuitive, user-centric digital experiences that boost user satisfaction and support business objectives.
 
 ***
 
-##  🏛 Education
+## 🏛 Education
 
-**University of Wollongong | Bachelor of Science (BSc), Psychology** 
+**University of Wollongong, Bachelor of Science (BSc), Psychology** 
 
 *2016 - 2019* 📘
 - Gained insights into human behavior and developed critical thinking and problem-solving skills valuable for understanding user needs.
 - Strengthened research and collaboration abilities, essential for driving data-driven decisions and working effectively in teams.
 
-**Management Development Institute of Singapore (MDIS) | Advanced Diploma, Psychology**
+**Management Development Institute of Singapore (MDIS), Advanced Diploma, Psychology**
 
 *2014 - 2015* 📘
 - Acquired advanced knowledge in psychological principles and applied psychology skills, relevant for understanding consumer behavior and driving business success.
 - Conducted quantitative research using SPSS, demonstrating strong data analysis and communication skills.
 
-**Management Development Institute of Singapore (MDIS) | Diploma, Psychology**
+**Management Development Institute of Singapore (MDIS), Diploma, Psychology**
 
 *2013 - 2014* 📘
 - Built a strong foundation in psychological theories and principles, providing a basis for understanding human behavior in professional settings.
 
-**PSB Academy | Certificate, Business Administration**
+**PSB Academy, Certificate, Business Administration**
 
 *2011 - 2013* 📜
 - Developed a comprehensive understanding of core business functions and applied concepts to solve real-world challenges, demonstrating adaptability and problem-solving skills.
