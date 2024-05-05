@@ -122,43 +122,43 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ## 🛠️ Skills & Technologies
 
-## Cloud and DevOps
+### Cloud and DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Programming and Frameworks
+### Programming and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Database Technologies
+### Database Technologies
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## UX/UI Design
+### UX/UI Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UX Research](https://img.shields.io/badge/UX_Research-FF6384?style=for-the-badge&logo=ux&logoColor=white)
 ![UX Design](https://img.shields.io/badge/UX_Design-00C4CC?style=for-the-badge&logo=ux&logoColor=white)
 
-## Scripting and Automation
+### Scripting and Automation
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-DE4C36?style=for-the-badge&logo=git&logoColor=white)
 
-## Network and Security
+### Network and Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-FF0000?style=for-the-badge&logo=cisco&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white)
 
-## Windows Administration
+### Windows System Administration
 ![Windows Administration](https://img.shields.io/badge/Windows_Administration-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Security](https://img.shields.io/badge/Windows_Security-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-## Virtualization
+### Virtualization
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 ***
