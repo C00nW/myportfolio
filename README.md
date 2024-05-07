@@ -15,15 +15,23 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ***
 
-## 🚀 My Projects
+## 🚀 Featured Projects (Work in Progress)
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Network Vulnerability Scanner (Nmap Integration)** | Efficiently identifies and displays network vulnerabilities, leveraging Nmap within a VirtualBox-hosted Ubuntu 22.04 LTS. | Nmap, PHP, Apache, Ubuntu, VirtualBox | [View Project](https://your-github-repository-link) |
+
+
+## 🚀 Featured Projects
 
 |-|-|
 |----------------------------------------|-------------------|
 | Simple Web App using Python, Flask & MySQL Database | [Mini Project A & B](https://a4py2024anywh.pythonanywhere.com/) |
 | Largest Product Calculator (Managing strings and exceptions) | [Python Mini Task](https://github.com/C00nW/largest-product-calculator.git) |
-| Simple Network Scanner Web App (nmap) | [Linux Task using Ubuntu 22.04 LTS on VirtualBox](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
-| Cybersecurity Analysis and Incident Response    | [Cybersecurity Bootcamp Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
-| UX Design and User Research            | [UX Bootcamp Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
+| Zoo Folder Structure Creation (Linux File System Management) | [Linux Task 1](https://github.com/C00nW/Zoo-Folder-Structure-Creation-Mini-Project.git) |
+| Network Scanner Web App (nmap) | [Linux Task 2: using Ubuntu 22.04 LTS on VirtualBox](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
+| Cybersecurity Breach Analysis & Mitigation Strategy  (Fintech)  | [Cybersecurity Bootcamp Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
+| UX/UI Research & Redesign (Fintech)         | [UX/UI Bootcamp Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
 
 ***
 
