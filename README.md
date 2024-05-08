@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 |-|-|
 |----------------------------------------|-------------------|
-| Simple Web App using Python, Flask & MySQL Database | [Mini Project A & B](https://a4py2024anywh.pythonanywhere.com/) |
+| Portifio Web App using Python, Flask, Html, CSS & MySQL Database | [Cloud Operations Bootcamp Capstone Project](https://a4py2024anywh.pythonanywhere.com/about_me/) |
 | Largest Product Calculator (Managing strings and exceptions) | [Python Mini Task](https://github.com/C00nW/largest-product-calculator.git) |
 | Zoo Folder Structure Creation (Linux File System Management) | [Linux Task 1](https://github.com/C00nW/Zoo-Folder-Structure-Creation-Mini-Project.git) |
 | Network Scanner Web App (nmap) | [Linux Task 2: using Ubuntu 22.04 LTS on VirtualBox](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
@@ -70,13 +70,13 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 **Generation Singapore, Cloud Operations Bootcamp** 
 
 *Feb 2024 - May 2024* ☁️
-- Upskilling for cloud support/DevOps roles. Learning Linux, Python, DevOps, & Microsoft Azure
-(Fundamentals & Administration)
+- Upskilling and training for cloud support/DevOps roles. Learning Linux, Python, DevOps, & Microsoft Azure certifications
+(Fundamentals & Administration).
 
 **Singapore University of Technology and Design (SUTD), (SCTP) SOC (Security Operations Center) Analyst Program**
 
 *Jan 2024 - Dec 2024*  🔒
-- Developing expertise in cybersecurity fundamentals, network analysis, and system administration to effectively protect organizations from cyber threats.
+- Developing cybersecurity skilla and expertise across network analysis, cloud/web/database security, forensics, incident response, scripting, and system administration to actively safeguard organizations from cyber threats.
 
 ### 🏅 Certifications & Professional Development
 
