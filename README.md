@@ -15,23 +15,14 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ***
 
-## 🚀 Featured Projects (Work in Progress)
-
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Network Vulnerability Scanner (Nmap Integration)** | Efficiently identifies and displays network vulnerabilities, leveraging Nmap within a VirtualBox-hosted Ubuntu 22.04 LTS. | Nmap, PHP, Apache, Ubuntu, VirtualBox | [View Project](https://your-github-repository-link) |
-
-
-## 🚀 Featured Projects
-
-|-|-|
-|----------------------------------------|-------------------|
-| Portifio Web App using Python, Flask, Html, CSS & MySQL Database | [Cloud Operations Bootcamp Capstone Project](https://a4py2024anywh.pythonanywhere.com/about_me/) |
-| Largest Product Calculator (Managing strings and exceptions) | [Python Mini Task](https://github.com/C00nW/largest-product-calculator.git) |
-| Zoo Folder Structure Creation (Linux File System Management) | [Linux Task 1](https://github.com/C00nW/Zoo-Folder-Structure-Creation-Mini-Project.git) |
-| Network Scanner Web App (nmap) | [Linux Task 2: using Ubuntu 22.04 LTS on VirtualBox](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
-| Cybersecurity Breach Analysis & Mitigation Strategy  (Fintech)  | [Cybersecurity Bootcamp Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
-| UX/UI Research & Redesign (Fintech)         | [UX/UI Bootcamp Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
+| **Portfolio Website and Web App (Cloud Operations Bootcamp)** | Developed a dynamic portfolio website featuring an AI-powered chatbot, image generator, calculator, network scanner, and live weather updates using Python, Flask, HTML, CSS, and MySQL. | Python, Flask, HTML, CSS, MySQL, OpenAI LLM | [View Capstone Project](https://a4py2024anywh.pythonanywhere.com/) |
+| **Network Vulnerability Scanner** | Implemented an automated network scanning and monitoring system using Nmap on a Linux setup, with results dynamically displayed on a PHP webpage for enhanced security analysis. | Nmap, PHP, Apache, Linux, Ubuntu, VirtualBox | [View Project](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
+| **Largest Product Calculator** | Designed a Python application to calculate the largest product of consecutive digits from a numeric string, efficiently handling errors and providing interactive user prompts for enhanced usability. | Python, VS Code | [View Project](https://github.com/C00nW/largest-product-calculator.git) |
+| **LinuxZoo: Directory Management** | Created a well-organized, zoo-themed directory structure using advanced shell scripting techniques on Linux Ubuntu, demonstrating command-line proficiency and file management skills. | Linux, Ubuntu, VirtualBox, Bash, CLI | [View Project](https://github.com/C00nW/Zoo-Folder-Structure-Creation-Mini-Project.git) |
+| **Cybersecurity Breach Analysis & Mitigation Strategy (Cybersecurity Bootcamp)** | Provides a comprehensive analysis of cybersecurity threats facing Singapore's financial sector and proposes robust security solutions and response strategies to mitigate these risks effectively. | Threat Mitigation, Authentication, OSINT, ISO 27001, NIST CSF, Social Engineering Prevention, PDPA, MAS TRM, Incident Response | [View Capstone Project](https://docs.google.com/document/d/18TCZShOBXDcGyzsrL-c6sLYYv-rE0rO-NSuxgb5FfAU/edit#heading=h.gjdgxs) |
+| **Mobile Banking App: UX/UI Analysis & Redesign (UX/UI Bootcamp)** | Developed 'Digital Payee', a user-centric mobile banking app that offers a secure, seamless, and intuitive payment experience, integrating various financial tasks into a single platform focused on usability and convenience. | UX Design and Research, IA, Wireframing, UI Design, Usability Testing | [View Capstone Project](https://www.figma.com/file/L2eyh5ybQi7SldJ7eMEnWv/DigiPayee?type=design&mode=design) |
 
 ***
 
