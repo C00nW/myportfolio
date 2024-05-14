@@ -61,8 +61,7 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 **Generation Singapore, Cloud Operations Bootcamp** 
 
 *Feb 2024 - May 2024* ☁️
-- Upskilling and training for cloud support/DevOps roles. Learning Linux, Python, DevOps, & Microsoft Azure certifications
-(Fundamentals & Administration).
+- Recently completed a cloud operations bootcamp, gaining proficiency in Linux, Python, HTML, CSS, MySQL, and DevOps. Actively pursuing Azure Fundamentals (AZ-900) and Administrator (AZ-104) certifications. Seeking an opportunity to leverage skills in cloud support, DevOps, or cloud security roles.
 
 **Singapore University of Technology and Design (SUTD), (SCTP) SOC (Security Operations Center) Analyst Program**
 
