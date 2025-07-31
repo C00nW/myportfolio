@@ -28,6 +28,15 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ## 💼 Professional Experience
 
+**Cyber Security Associate, Athena Dynamics Pte Ltd**
+
+*Sep 2024 – May 2025*
+-	Developed and designed UX/UI for software products with a focus on intuitive user experience.
+-	Managed implementation, validation, and testing of new software tools to ensure system integrity.
+-	Conducted structured tests, performed root cause analysis, and resolved system issues.
+-	Researched emerging technologies to guide project planning and technical needs.
+-	Collaborated with cross-functional teams on product launches and supported both sales and technical efforts at major industry events.
+
 **Product Executive (MedTech), Beta MedTech**
 
 *Feb 2022 - May 2022*
@@ -56,17 +65,17 @@ Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations
 
 ## 🎓 Continuing Education
 
-### 🔄 Ongoing Training 
+### ✅ Completed Training 
 
 **Generation Singapore, Cloud Operations Bootcamp** 
 
 *Feb 2024 - May 2024* ☁️
-- Recently completed a cloud operations bootcamp, gaining proficiency in Linux, Python, HTML, CSS, MySQL, and DevOps. Actively pursuing Azure Fundamentals (AZ-900) and Administrator (AZ-104) certifications. Seeking an opportunity to leverage skills in cloud support, DevOps, or cloud security roles.
+-	Developed skills for cloud operations roles, focusing on Linux, Python, DevOps, and Microsoft Azure (Fundamentals & Administration).
 
 **Singapore University of Technology and Design (SUTD), (SCTP) SOC (Security Operations Center) Analyst Program**
 
 *Jan 2024 - Dec 2024*  🔒
-- Developing cybersecurity skilla and expertise across network analysis, cloud/web/database security, forensics, incident response, scripting, and system administration to actively safeguard organizations from cyber threats.
+- Developed cybersecurity skills and expertise across network analysis, cloud/web/database security, forensics, incident response, scripting, and system administration to actively safeguard organizations from cyber threats.
 
 ### 🏅 Certifications & Professional Development
 
