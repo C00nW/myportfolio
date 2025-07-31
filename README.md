@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I'm a motivated cybersecurity and cloud operations learner, actively building expertise in these fields through targeted programs and certifications (Azure AZ-900, AZ-104). Seeking opportunities to apply my foundational skills, problem-solving mindset, and adaptability within a collaborative IT environment. Let's connect!
+Welcome to my GitHub profile! I'm a mid-career professional with a diverse background in cybersecurity, cloud operations, and user-centered product development. Through hands-on training and continuous learning, I’ve built a solid foundation in IT and am looking to apply my skills in a collaborative and dynamic IT environment. Open to opportunities where I can contribute, grow, and support real-world problem solving.
 
 ***
 
 ## 🌟 About Me
-* 🛡️  Deepening cybersecurity expertise through the SCTP SOC Analyst program.
-* ☁️  Building cloud proficiency with Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
-* 🎯  On track for Azure certifications (AZ-900, AZ-104).
-* 🚀  Early in my IT career but equipped with foundational knowledge and practical skills.
-* 💡  Eager to contribute and learn in a collaborative IT environment.
-* 📚  Committed to continuous professional development in cybersecurity and cloud technologies.
+* 🛡️ Completed SCTP SOC Analyst Programme with practical training in threat monitoring and system security.
+* ☁️ Built proficiency in Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
+* 🖥️ Experience in cybersecurity and product design with a focus on usability, systems integration, and reliability.
+* 🧠 Background in Psychology supports data analysis and behavioral insights.
+* 📚 Dedicated to ongoing skill development and contributing to meaningful IT solutions.
+
 
 ***
 
