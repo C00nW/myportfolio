@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I'm a mid-career professional with a diverse background in cybersecurity, cloud operations, and user-centered product development. Through hands-on training and continuous learning, I’ve built a solid foundation in IT and am looking to apply my skills in a collaborative and dynamic IT environment. Open to opportunities where I can contribute, grow, and support real-world problem solving.
+Welcome to my GitHub profile! I'm a professional with a diverse background in cybersecurity, cloud operations, and user-centered product development. Through hands-on training and continuous learning, I’ve built a solid foundation in IT and am looking to apply my skills in a collaborative and dynamic IT environment. Open to opportunities where I can contribute, grow, and support real-world problem solving.
 
 ***
 
