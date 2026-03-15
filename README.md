@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I'm a professional with a diverse background in cybersecurity, cloud operations, and user-centered product development. Through hands-on training and continuous learning, I’ve built a solid foundation in IT and am looking to apply my skills in a collaborative and dynamic IT environment. Open to opportunities where I can contribute, grow, and support real-world problem solving.
+Welcome to my GitHub profile! I'm a professional with a diverse background in AI, cybersecurity, cloud operations, and user-centered product development. Through hands-on training and continuous learning, I’ve built a solid foundation in IT and am looking to apply my skills in a collaborative and dynamic IT environment. Open to opportunities where I can contribute, grow, and support real-world problem solving.
 
 ***
 
@@ -26,6 +26,11 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in cy
 ***
 
 ## 💼 Professional Experience
+
+**AI Data Annotator (Freelance), Singapore**
+
+*June 2025 - Present* 
+- Providing remote data annotation and quality assurance (QA) support for AI-related projects, including content review, response evaluation, and feedback.
 
 **Cyber Security Associate, Athena Dynamics Pte Ltd**
 
@@ -57,12 +62,19 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in cy
 *2011 - 2013*
 - Managed supply chains and inventory records, ensuring timely resource provisioning and minimizing disruptions.
 - Maintained accurate records of sensitive information, adhering to strict security and confidentiality protocols.
-- Collaborated with cross-functional teams to resolve logistical issues and streamline operations for greater efficiency.
+- Collaborated with cross-functional teams to resolve logistical issues and streamline operations for improved efficiency.
 - Demonstrated meticulous organizational skills, ensuring compliance with operational procedures.
 
 ***
 
 ## 🎓 Continuing Education
+
+### ⏳ Upcoming Training
+
+**Ngee Ann Polytechnic, Specialist Diploma, Applied Generative Artificial Intelligence (AI)**
+
+*Apr 2026 - Mar 2027* 🧠  
+- Expected to further build technical proficiency in Python-based analytics, data storytelling, and neural network deployment, including working toward NVIDIA certifications in deep learning and LLMs.
 
 ### ✅ Completed Training 
 
@@ -77,6 +89,11 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in cy
 - Developed cybersecurity skills and expertise across network analysis, cloud/web/database security, forensics, incident response, scripting, and system administration to actively safeguard organizations from cyber threats.
 
 ### 🏅 Certifications & Professional Development
+
+**Google Coursera, Certificate, AI Essentials**
+
+*Feb 2026 - Mar 2026* 🤖  
+- Developed practical skills in generative AI tools, effective prompting, and identifying bias to improve data quality, output accuracy, and workflow efficiency.
 
 **Vertical Institute, Certificate, Cybersecurity Bootcamp**
 
