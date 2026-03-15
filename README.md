@@ -145,6 +145,13 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in AI
 
 ## 🛠️ Skills & Technologies
 
+### Generative AI, Prompting, and Responsible AI
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Generative AI Fundamentals](https://img.shields.io/badge/Generative_AI_Fundamentals-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
+![Output Evaluation](https://img.shields.io/badge/Output_Evaluation-0F9D58?style=for-the-badge)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-228B22?style=for-the-badge)
+
 ### Cloud and DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
