@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in AI
 **AI Data Annotator (Freelance), Singapore**
 
 *June 2025 - Present* 
-- Providing remote data annotation and quality assurance (QA) support for AI-related projects, including content review, response evaluation, and feedback.
+- Provided data annotation and quality assurance (QA) for AI training projects, including content review, response evaluation, and feedback across text, image, audio, and code-based tasks.
+- Identified errors, bias, and safety issues in AI-generated content to help improve the accuracy and relevance of model outputs based on project guidelines.
 
 **Cyber Security Associate, Athena Dynamics Pte Ltd**
 
@@ -69,12 +70,12 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in AI
 
 ## 🎓 Continuing Education
 
-### ⏳ Upcoming Training
+### ⏳ Ongoing Training
 
-**Ngee Ann Polytechnic, Specialist Diploma, Applied Generative Artificial Intelligence (AI)**
+**Ngee Ann Polytechnic, Specialist Diploma, Applied Generative Artificial Intelligence (AI) (Part-time)**
 
 *Apr 2026 - Mar 2027* 🧠  
-- Expected to further build technical proficiency in Python-based analytics, data storytelling, and neural network deployment, including working toward NVIDIA certifications in deep learning and LLMs.
+- Further developing technical proficiency in Python-based data analytics, data storytelling, and neural network deployment, including working toward NVIDIA certifications in deep learning and LLMs.
 
 ### ✅ Completed Training 
 
