@@ -1,19 +1,19 @@
 # 👋 Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I combine experience in AI, cybersecurity, cloud operations, and product development to build user-focused solutions. Through hands-on training and continuous learning, I have built a practical technical foundation across systems, cloud, cybersecurity, and product-related problem-solving. I'm currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic, and I'm actively seeking opportunities to contribute, learn, and solve real-world problems. Let's connect!
+
+Welcome to my GitHub profile! I bring together experience in AI, cybersecurity, cloud operations, and product development to build user-focused solutions. Through hands-on training and continuous learning, I have developed a practical technical foundation across systems, cloud, cybersecurity, and product-related problem-solving. I am currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic and am actively seeking opportunities to contribute, learn, and solve real-world problems. Let’s connect!
 
 ***
 
 ## 🌟 About Me
 
-* 🤖 Freelance experience supporting AI training projects through data annotation and quality review across text, image, audio, and code-based tasks.
-* 🖥️ Experience across cybersecurity, product design and development, with a focus on usability, systems integration, and reliability.
-* 📚 Currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic to further develop my skills in data analytics and AI-driven solutions.
-* 🛡️ Completed the SCTP SOC Analyst Programme with practical training in threat monitoring and system security.
+* 🤖 Supported AI model training through data annotation and quality review across text, image, audio, and code.
+* 🖥️ Experience in cybersecurity and product development, with a focus on usability, integration, and reliability.
+* 📚 Currently pursuing a Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic to deepen skills in data analytics and AI solutions.
+* 🛡️ SCTP SOC Analyst graduate with hands-on training in threat monitoring and system security.
 * ☁️ Built practical skills in Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
-* 🧠 Background in Psychology supports analytical thinking, user understanding, and behavioural insight.
-
+* 🧠 Psychology background that supports analytical thinking, user understanding, and behavioral insight.
 
 ***
 
