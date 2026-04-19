@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I'm a professional with a diverse background in AI, cybersecurity, cloud operations, and user-centered product development. Through hands-on training and continuous learning, I’ve built a solid foundation in IT and am looking to apply my skills in a collaborative and dynamic IT environment. Open to opportunities where I can contribute, grow, and support real-world problem solving.
+Welcome to my GitHub profile! My background includes AI, cybersecurity, cloud operations, and user-focused product design and development. Through hands-on training, project work, and continuous learning, I have built a practical foundation in IT across technical operations, systems work, and product-related problem solving. I am currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic and am open to opportunities where I can contribute, continue learning, and support real-world problem solving.
 
 ***
 
 ## 🌟 About Me
-* 🛡️ Completed SCTP SOC Analyst Programme with practical training in threat monitoring and system security.
-* ☁️ Built proficiency in Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
-* 🖥️ Experience in cybersecurity and product design with a focus on usability, systems integration, and reliability.
-* 🧠 Background in Psychology supports data analysis and behavioral insights.
-* 📚 Dedicated to ongoing skill development and contributing to meaningful IT solutions.
+* 🛡️ Completed the SCTP SOC Analyst Programme with practical training in threat monitoring and system security.
+* ☁️ Built practical skills in Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
+* 🖥️ Experience across cybersecurity, product design and development, with a focus on usability, systems integration, and reliability.
+* 🧠 Background in Psychology supports analytical thinking, user understanding, and behavioural insight.
+* 📚 Currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic to further develop my skills in data analytics and AI-driven solutions.
 
 
 ***
@@ -27,20 +27,20 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in AI
 
 ## 💼 Professional Experience
 
-**AI Data Annotator (Freelance), Singapore**
+**Data Annotator (Freelance, Remote), Singapore**
 
 *June 2025 - Present* 
-- Provided data annotation and quality assurance (QA) for AI training projects, including content review, response evaluation, and feedback across text, image, audio, and code-based tasks.
-- Identified errors, bias, and safety issues in AI-generated content to help improve the accuracy and relevance of model outputs based on project guidelines.
+- Delivered data annotation and quality assurance (QA) support for AI training projects through content review, response evaluation, and feedback across text, image, audio, and code-based tasks. 
+- Evaluated AI-generated outputs for quality, accuracy, bias, safety concerns, and alignment with project requirements to support more reliable and relevant results.
 
 **Cyber Security Associate, Athena Dynamics Pte Ltd**
 
 *Sep 2024 – May 2025*
--	Developed and designed UX/UI for software products with a focus on intuitive user experience.
--	Managed implementation, validation, and testing of new software tools to ensure system integrity.
--	Conducted structured tests, performed root cause analysis, and resolved system issues.
--	Researched emerging technologies to guide project planning and technical needs.
--	Collaborated with cross-functional teams on product launches and supported both sales and technical efforts at major industry events.
+-	Handled frontend, backend, and UX/UI development for in-house cybersecurity solutions supporting maritime operations. 
+- Performed QA, validation, and security testing through structured test activities and root cause analysis to identify bugs, troubleshoot issues, and support system reliability. 
+- Supported the deployment and integration of third-party hardware and software solutions across internal systems and client-facing environments.
+- Researched emerging technologies for project planning and maintained technical and security documentation for GRC-related processes. 
+- Collaborated with cross-functional teams on product launches, providing technical and sales support at major industry events.
 
 **Product Executive (MedTech), Beta MedTech**
 
@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in AI
 
 **Ngee Ann Polytechnic, Specialist Diploma, Applied Generative Artificial Intelligence (AI) (Part-time)**
 
-*Apr 2026 - Mar 2027* 🧠  
+*Present - Mar 2027* 🧠  
 - Further developing technical proficiency in Python-based data analytics, data storytelling, and neural network deployment, including working toward NVIDIA certifications in deep learning and LLMs.
 
 ### ✅ Completed Training 
@@ -150,7 +150,8 @@ Welcome to my GitHub profile! I'm a professional with a diverse background in AI
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Generative AI Fundamentals](https://img.shields.io/badge/Generative_AI_Fundamentals-FF6F00?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
-![Output Evaluation](https://img.shields.io/badge/Output_Evaluation-0F9D58?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-7B68EE?style=for-the-badge)
+![AI Output Evaluation](https://img.shields.io/badge/AI_Output_Evaluation-0F9D58?style=for-the-badge)
 ![Responsible AI](https://img.shields.io/badge/Responsible_AI-228B22?style=for-the-badge)
 
 ### Cloud and DevOps
