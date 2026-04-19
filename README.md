@@ -174,6 +174,9 @@ Welcome to my GitHub profile! My background includes AI, cybersecurity, cloud op
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Data Analytics and Visualisation
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ### UX/UI Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UX Research](https://img.shields.io/badge/UX_Research-FF6384?style=for-the-badge&logo=ux&logoColor=white)
