@@ -6,11 +6,12 @@ Welcome to my GitHub profile! I combine experience in AI, cybersecurity, cloud o
 ***
 
 ## 🌟 About Me
+* 🤖 Freelance experience supporting AI training projects through data annotation and quality review across text, image, audio, and code-based tasks.
+* 🖥️ Experience across cybersecurity, product design and development, with a focus on usability, systems integration, and reliability.
+* 📚 Currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic to further develop my skills in data analytics and AI-driven solutions.
 * 🛡️ Completed the SCTP SOC Analyst Programme with practical training in threat monitoring and system security.
 * ☁️ Built practical skills in Linux, Python, DevOps, and Microsoft Azure through a cloud operations bootcamp.
-* 🖥️ Experience across cybersecurity, product design and development, with a focus on usability, systems integration, and reliability.
 * 🧠 Background in Psychology supports analytical thinking, user understanding, and behavioural insight.
-* 📚 Currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic to further develop my skills in data analytics and AI-driven solutions.
 
 
 ***
