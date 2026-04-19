@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Patten!
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! My background includes AI, cybersecurity, cloud operations, and user-focused product design and development. Through hands-on training, project work, and continuous learning, I have built a practical foundation in IT across technical operations, systems work, and product-related problem solving. I am currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic and am open to opportunities where I can contribute, continue learning, and support real-world problem solving.
+Welcome to my GitHub profile! I combine experience in AI, cybersecurity, cloud operations, and product development to build user-focused solutions. Through hands-on training and continuous learning, I have built a practical technical foundation across systems, cloud, cybersecurity, and product-related problem-solving. I'm currently pursuing a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Polytechnic, and I'm actively seeking opportunities to contribute, learn, and solve real-world problems. Let's connect!
 
 ***
 
