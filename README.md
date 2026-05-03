@@ -29,11 +29,10 @@ Welcome to my GitHub profile! I bring together experience in AI, cybersecurity, 
 
 ## 💼 Professional Experience
 
-**Data Annotator (Freelance, Remote), Singapore**
+**AI Data Annotator / Analyst (Freelance, Remote), Singapore**
 
 *June 2025 - Present* 
-- Delivered data annotation and quality assurance (QA) support for AI training projects through content review, response evaluation, and feedback across text, image, audio, and code-based tasks. 
-- Evaluated AI-generated outputs for quality, accuracy, bias, safety concerns, and alignment with project requirements to support more reliable and relevant results.
+- Conducted QA review and evaluation of AI-generated outputs across multimodal tasks (code, text, image, and audio), providing structured feedback on AI response quality, factual accuracy, reasoning, safety, and alignment with task requirements.
 
 **Cyber Security Associate, Athena Dynamics Pte Ltd**
 
