@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I bring together experience in AI, cybersecurity, 
 **AI Data Annotator / AI Data Trainer (Freelance, Remote), Singapore**
 
 *June 2025 - Present* 
-- Conducted quality assurance (QA) reviews of code, text, image, and audio outputs for factual accuracy, reasoning, safety, and task adherence to support AI model training through Reinforcement Learning from Human Feedback (RLHF).
+- Evaluated AI-generated outputs across code, text, image, and audio tasks, providing QA assessments on correctness, reasoning, safety, relevance, response quality, and alignment with task requirements via Reinforcement Learning from Human Feedback (RLHF).
 
 **Cyber Security Associate, Athena Dynamics Pte Ltd**
 
