@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I combine experience in AI, data analytics, cybers
 
 ## 💼 Professional Experience
 
-**AI Data Annotator / AI Data Trainer (Freelance, Remote), Singapore**
+**AI Data Annotator / Analyst (Freelance, Remote), Singapore**
 
 *June 2025 - Present* 
 - Performed quality assurance (QA) reviews and assessments to train AI across text, image, audio, and code-based tasks, evaluating AI-generated responses, content quality, and providing feedback based on accuracy, relevance, safety, and task requirements.
