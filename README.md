@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/patten-c-4090971b9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Welcome to my GitHub profile! I bring together experience in AI and data analysis, along with cybersecurity and cloud operations, to build user-focused solutions. Through hands-on training and continuous upskilling, I have developed a practical technical foundation across systems, cloud, cybersecurity, and tackling service-related issues on the ground. Currently taking up a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Poly, I am actively looking out for opportunities to contribute, learn, and solve real-world problems. Let’s connect!
+Welcome to my GitHub profile! I combine experience in AI, data analytics, cybersecurity, and cloud operations to build user-focused solutions. Through continuous upskilling, I’ve built a practical technical foundation in digital systems and tackling service-related issues on the ground. Currently taking up a part-time Specialist Diploma in Applied Generative AI at Ngee Ann Poly, I am actively looking out for new opportunities to contribute and solve real-world problems. Let’s connect!
 
 ***
 
