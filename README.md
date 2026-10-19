@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I combine experience in AI, data analytics, cybers
 **Ngee Ann Polytechnic, Specialist Diploma, Applied Generative Artificial Intelligence (AI) (Part-time)**
 
 *Present - Mar 2027* 🧠  
-- Further developing technical proficiency in Python-based data analytics, data storytelling, and neural network deployment, including working toward NVIDIA certifications in deep learning and LLMs.
+- Completed the Post-Diploma Certificate in Programming for Analytics and Data Visualisation (1 of 2) with practical proficiency in Python data analysis and Power BI reporting; currently completing the second certificate (2 of 2) in image recognition, deep learning, and LLMs toward the Specialist Diploma and NVIDIA certifications.
 
 ### ✅ Completed Training 
 
