@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I combine experience in AI, data analytics, cybers
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| **Hotel Bookings Analysis & Visualisation** | Built an end-to-end visual analytics report and interactive dashboard exploring guest cancellation drivers, lead times, and room rate seasonality across 119K+ reservations. | Power BI, Power Query, DAX, Data Cleaning | [View Project](https://drive.google.com/file/d/1eKlJnwNSzL7voPGa-4B3gm7fVsV5wwf8/view?usp=drive_link) |
 | **Network Vulnerability Scanner** | Implemented an automated network scanning and monitoring system using Nmap on a Linux setup, with results dynamically displayed on a PHP webpage for enhanced security analysis. | Nmap, PHP, Apache, Linux, Ubuntu, VirtualBox | [View Project](https://github.com/C00nW/Linux-Task-Simple-Web-Scanner-Web-App.git) |
 | **Largest Product Calculator** | Designed a Python application to calculate the largest product of consecutive digits from a numeric string, efficiently handling errors and providing interactive user prompts for enhanced usability. | Python, VS Code | [View Project](https://github.com/C00nW/largest-product-calculator.git) |
 | **LinuxZoo: Directory Management** | Created a well-organized, zoo-themed directory structure using shell scripting techniques on Linux Ubuntu, demonstrating command-line proficiency and file management skills. | Linux, Ubuntu, VirtualBox, Bash, CLI | [View Project](https://github.com/C00nW/Zoo-Folder-Structure-Creation-Mini-Project.git) |
