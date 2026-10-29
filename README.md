@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I combine experience in AI, data analytics, cybers
 
 ### ⏳ Ongoing Training
 
-**Ngee Ann Polytechnic, Specialist Diploma, Applied Generative Artificial Intelligence (AI) (Part-time)**
+**Ngee Ann Polytechnic, Specialist Diploma in Applied Generative Artificial Intelligence (AI) (Part-time)**
 
 *Present - Mar 2027* 🧠  
 - Completed the Post-Diploma Certificate in Programming for Analytics and Data Visualisation (1 of 2) with practical proficiency in Python data analysis and Power BI reporting; currently completing the second certificate (2 of 2) in image recognition, deep learning, and LLMs toward the Specialist Diploma and NVIDIA certifications.
@@ -89,11 +89,11 @@ Welcome to my GitHub profile! I combine experience in AI, data analytics, cybers
 **Singapore University of Technology and Design (SUTD), (SCTP) SOC (Security Operations Center) Analyst Program**
 
 *Jan 2024 - Dec 2024*  🔒
-- Developed cybersecurity skills and expertise across network analysis, cloud/web/database security, forensics, incident response, scripting, and system administration to actively safeguard organizations from cyber threats.
+- Developedcybersecurity skills and expertise across network analysis, cloud/web/database security, forensics, incident response, scripting, and system administration to actively safeguard organizations from cyber threats.
 
 ### 🏅 Certifications & Professional Development
 
-**Google Coursera, Certificate, AI Essentials**
+**Google Coursera, Certificate in AI Essentials**
 
 *Feb 2026 - Mar 2026* 🤖  
 - Developed practical skills in generative AI tools, effective prompting, and identifying bias to improve data quality, output accuracy, and workflow efficiency.
